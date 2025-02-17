@@ -13,6 +13,8 @@ def show_banner():
     Educational Purpose Only!
 
     Author: Abdimajiid Ahmed Ali - New Generation University Student
+
+    NOTE[For Windows]: Only works if firewall and windows defender are disabled and any other external antivirus softwares
     """)
 
 show_banner()
